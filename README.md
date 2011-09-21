@@ -2,6 +2,9 @@
 
 This repository contains the FastPdfKit iOS library with some sample projects. This library allows you to add some of the features of the FastPdf application to your own app, allowing it to support pdf documents. For more information, see the [FastPdfKit website](http://fastpdfkit.com) and the [Support website](http://support.fastpdfkit.com).
 
+### Update 2.1.2 (September 21th, 2011)
+* Slightly enhanced text and search extraction. More fixes will come.
+
 ### Update 2.1.1 (September 15th, 2011)
 * Added a font cache system for text extraction and search, which should give sensible improvement in search speed especially on documents with a large amount of different fonts.
 
