@@ -33,7 +33,7 @@
 	CGRect *cropboxes;
 	int *rotations;
     
-    NSMutableDictionary * fontCache;
+    // NSMutableDictionary * fontCache;
     
 }
 
